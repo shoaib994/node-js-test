@@ -5,7 +5,7 @@ const fs=require('fs');
 const {google}=require('googleapis')
 const Docxtemplater = require("docxtemplater");
 const PizZip = require("pizzip");
-
+require('dotenv').config()
 exports.getCity= async (req, res, next) => {
   try {
   
@@ -141,13 +141,13 @@ exports.generateFile= async (req, res, next) => {
 
 
     // read
-    const google_api_folder="1vBDgMPWAWpV1N5lXo_mFli4pcq6VWCtB"
+    const google_api_folder=process.env.Folder_API_KEY
     // const JSONFilePath=`${__dirname}/me.jpg`
     const JSONFilePath = path.join(__dirname, 'google_drive_json.json');
    
     const auth= new google.auth.GoogleAuth({
       keyFile:JSONFilePath,
-      scopes: ['https://www.googleapis.com/auth/drive']
+      scopes: [process.env.Scope]
     })
 
     const driveServices=google.drive({
@@ -210,6 +210,7 @@ exports.generateFile= async (req, res, next) => {
 
       
       return res.json({
+        
         data:response.data.id
       })
 
@@ -221,59 +222,3 @@ exports.generateFile= async (req, res, next) => {
     })
   }
 }
-
-// exports.createFile= async (req, res, next) => {
-//   try {
-  
-    
-//   // Load the docx file as binary content
-//   const content = fs.readFileSync(
-//     path.resolve(__dirname, "../template/labs.docx"),
-//     "binary"
-// );
-
-// const zip = new PizZip(content);
-
-// const doc = new Docxtemplater(zip, {
-//     paragraphLoop: true,
-//     linebreaks: true,
-// });
-
-// // Render the document (Replace {first_name} by John, {last_name} by Doe, ...)
-// doc.render({
-//     procedure_name: "abc",
-//     CPT_code: "1234",
-//     zip_code: "50800",
-//     name: "Shoaib",
-//     email:"Ahmad"
-// });
-//  const email=`shoaib_${Date.now()}`
-// const buf = doc.getZip().generate({
-//     type: "nodebuffer",
-//     // compression: DEFLATE adds a compression step.
-//     // For a 50MB output document, expect 500ms additional CPU time
-//     compression: "DEFLATE",
-// });
-
-// // buf is a nodejs Buffer, you can either write it to a
-// // file or res.send it with express for example.
-// fs.writeFileSync(path.resolve(__dirname, `../files/${email}.docx`), buf);
-//  // Set the appropriate CORS headers
-//  res.setHeader('Access-Control-Allow-Origin', '*');
-//  res.setHeader('Access-Control-Allow-Methods', 'GET');
-//  res.setHeader('Access-Control-Allow-Headers', '');
-
-
-//       return res.json({
-//         city:"abc"
-//       })
-//         // Return the jsonData as a response or perform further operations
-     
-//   }
-//   catch (error) {
-//     return res.json({
-//       success: false,
-//       message: error.message
-//     })
-//   }
-// }
