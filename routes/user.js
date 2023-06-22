@@ -2,7 +2,7 @@ const express = require('express');
 
 const router = express.Router();
 
-const { getCity, getMedical,generateFile,generateData} = require('../controller/user');
+const { getCity, getMedical,generateFile} = require('../controller/user');
 
 // const aws=require('aws-sdk')
 // const multer=require('multer')
@@ -32,7 +32,7 @@ const { getCity, getMedical,generateFile,generateData} = require('../controller/
 router.get('/get_city', getCity);
 router.get('/get_medical', getMedical);
 router.post('/create_file', generateFile);
-router.post('/data', generateData);
+// router.post('/data', generateData);
 // router.post('/create_file',upload.single('file'), generateFile);
 // router.post('/file', createFile);
 

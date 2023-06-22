@@ -5,7 +5,7 @@ const fs=require('fs');
 const {google}=require('googleapis')
 const Docxtemplater = require("docxtemplater");
 const PizZip = require("pizzip");
-const { writeFileToS3 } = require('./storage');
+
 exports.getCity= async (req, res, next) => {
   try {
   
@@ -94,8 +94,7 @@ exports.generateFile= async (req, res, next) => {
     const {name,email,city,phone,CPT_code,procedureName,procedureType,zip_code}=req.body;
     console.log(req.body)
   // Load the docx file as binary content
-  // return res.json(path.join(process.cwd()))
-  const cptCode=procedureName;
+  const cptCode=procedureType
   var filename=''
   if(procedureType?.toLowerCase()=="labs"){
     filename='labs'
@@ -108,7 +107,7 @@ exports.generateFile= async (req, res, next) => {
     filename='specialist'
   }
   const content = fs.readFileSync(
-    path.join(__dirname, `labs.docx`),
+    path.join(__dirname, `../template/${filename}.docx`),
     "binary"
 );
 
@@ -127,7 +126,7 @@ exports.generateFile= async (req, res, next) => {
       name: name,
       email:email
   });
-  const fileName=`shoaib_${cptCode}_${Date.now()}`
+  const fileName=`${name}_${cptCode}_${Date.now()}`
   const buf = doc.getZip().generate({
       type: "nodebuffer",
       // compression: DEFLATE adds a compression step.
@@ -137,16 +136,12 @@ exports.generateFile= async (req, res, next) => {
 
   // buf is a nodejs Buffer, you can either write it to a
   // file or res.send it with express for example.
-  const fileContent = fs.readFileSync(path.join(__dirname,'labs.docx'));
-   await writeFileToS3('publicgoogledrive', 'abc2.docx', fileContent);
-  // return 
-  return res.json("string123")
-  fs.writeFileSync(path.join(__dirname, `/temp/${fileName}.docx`), buf);
+  fs.writeFileSync(path.join(__dirname, `../files/${fileName}.docx`), buf);
 
 
 
     // read
-    const google_api_folder="1TrGm9U17O8b2G1iqq6ZT8icf_YNijsS8"
+    const google_api_folder="1vBDgMPWAWpV1N5lXo_mFli4pcq6VWCtB"
     // const JSONFilePath=`${__dirname}/me.jpg`
     const JSONFilePath = path.join(__dirname, 'google_drive_json.json');
    
@@ -163,7 +158,7 @@ exports.generateFile= async (req, res, next) => {
       'name':fileName,
       parents:[google_api_folder]
     }
-    const file = path.join(__dirname, `${fileName}.docx`);
+    const file = path.join(__dirname, `../files/${fileName}.docx`);
 
     const mediaService={
       mimeType:'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
@@ -182,29 +177,29 @@ exports.generateFile= async (req, res, next) => {
 
     // Delete files from folder
 
-    // const folderPath = path.join(__dirname, `../files`);
-    // // const folderPath = 'path_to_folder';
-    // fs.readdir(folderPath, (err, files) => {
-    //   if (err) {
-    //     console.error('Error reading folder:', err);
-    //     return;
-    //   }
+    const folderPath = path.join(__dirname, `../files`);
+    // const folderPath = 'path_to_folder';
+    fs.readdir(folderPath, (err, files) => {
+      if (err) {
+        console.error('Error reading folder:', err);
+        return;
+      }
     
-    //   // Iterate over the files in the folder
-    //   files.forEach((file) => {
-    //     const filePath = path.join(folderPath, file);
+      // Iterate over the files in the folder
+      files.forEach((file) => {
+        const filePath = path.join(folderPath, file);
     
-    //     // Delete each file
-    //     fs.unlink(filePath, (err) => {
-    //       if (err) {
-    //         console.error('Error deleting file:', err);
-    //         return;
-    //       }
+        // Delete each file
+        fs.unlink(filePath, (err) => {
+          if (err) {
+            console.error('Error deleting file:', err);
+            return;
+          }
     
-    //       console.log('File deleted successfully:', filePath);
-    //     });
-    //   });
-    // });
+          console.log('File deleted successfully:', filePath);
+        });
+      });
+    });
     // 
 
 
@@ -219,24 +214,6 @@ exports.generateFile= async (req, res, next) => {
       })
 
   }
-  catch (error) {
-    return res.json({
-      success: false,
-      message: error.message
-    })
-  }
-}
-exports.generateData= async (req, res, next) => {
-  try{
-      // Generate a unique file name (e.g., using a timestamp)
-      const fileName = `file-${Date.now()}.txt`;
-      const fileContent = 'This is the content of the file.';
-  
-      // Write the file to AWS S3
-      await writeFileToS3('publicgoogledrive', fileName, fileContent);
-  
-      res.status(200).json({ message: 'File upload successful.' });
-    } 
   catch (error) {
     return res.json({
       success: false,
