@@ -5,6 +5,7 @@ require('dotenv').config()
 const cors = require("cors");
 const PORT=process.env.PORT ||4000
 const path = require("path");
+
 app.listen(PORT,()=>console.log(`server is working on ${PORT}`))
 
 app.use(express.json());
