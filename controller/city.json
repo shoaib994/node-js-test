@@ -1,0 +1,7850 @@
+[
+    {
+        "Zip_Code": 32003,
+        "City": "Fleming Island",
+        "Type": "Standard",
+        "City_1": "Fleming Island",
+        "County": "Clay",
+        "County_Code": 12019
+    },
+    {
+        "Zip_Code": 32008,
+        "City": "Branford",
+        "Type": "Standard",
+        "City_1": "Branford",
+        "County": "Suwannee",
+        "County_Code": 12121
+    },
+    {
+        "Zip_Code": 32009,
+        "City": "Bryceville",
+        "Type": "Standard",
+        "City_1": "Bryceville",
+        "County": "Nassau",
+        "County_Code": 12089
+    },
+    {
+        "Zip_Code": 32011,
+        "City": "Callahan",
+        "Type": "Standard",
+        "City_1": "Callahan",
+        "County": "Nassau",
+        "County_Code": 12089
+    },
+    {
+        "Zip_Code": 32024,
+        "City": "Lake City",
+        "Type": "Standard",
+        "City_1": "Lake City",
+        "County": "Columbia",
+        "County_Code": 12023
+    },
+    {
+        "Zip_Code": 32025,
+        "City": "Lake City",
+        "Type": "Standard",
+        "City_1": "Lake City",
+        "County": "Columbia",
+        "County_Code": 12023
+    },
+    {
+        "Zip_Code": 32033,
+        "City": "Elkton",
+        "Type": "Standard",
+        "City_1": "Elkton",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32034,
+        "City": "Fernandina Beach",
+        "Type": "Standard",
+        "City_1": "Fernandina Beach",
+        "County": "Nassau",
+        "County_Code": 12089
+    },
+    {
+        "Zip_Code": 32038,
+        "City": "Fort White",
+        "Type": "Standard",
+        "City_1": "Fort White",
+        "County": "Columbia",
+        "County_Code": 12023
+    },
+    {
+        "Zip_Code": 32040,
+        "City": "Glen Saint Mary",
+        "Type": "Standard",
+        "City_1": "Glen Saint Mary",
+        "County": "Baker",
+        "County_Code": 12003
+    },
+    {
+        "Zip_Code": 32043,
+        "City": "Green Cove Springs",
+        "Type": "Standard",
+        "City_1": "Green Cove Springs",
+        "County": "Clay",
+        "County_Code": 12019
+    },
+    {
+        "Zip_Code": 32044,
+        "City": "Hampton",
+        "Type": "Standard",
+        "City_1": "Hampton",
+        "County": "Bradford",
+        "County_Code": 12007
+    },
+    {
+        "Zip_Code": 32046,
+        "City": "Hilliard",
+        "Type": "Standard",
+        "City_1": "Hilliard",
+        "County": "Nassau",
+        "County_Code": 12089
+    },
+    {
+        "Zip_Code": 32052,
+        "City": "Jasper",
+        "Type": "Standard",
+        "City_1": "Jasper",
+        "County": "Hamilton",
+        "County_Code": 12047
+    },
+    {
+        "Zip_Code": 32053,
+        "City": "Jennings",
+        "Type": "Standard",
+        "City_1": "Jennings",
+        "County": "Hamilton",
+        "County_Code": 12047
+    },
+    {
+        "Zip_Code": 32054,
+        "City": "Lake Butler",
+        "Type": "Standard",
+        "City_1": "Lake Butler",
+        "County": "Union",
+        "County_Code": 12125
+    },
+    {
+        "Zip_Code": 32055,
+        "City": "Lake City",
+        "Type": "Standard",
+        "City_1": "Lake City",
+        "County": "Columbia",
+        "County_Code": 12023
+    },
+    {
+        "Zip_Code": 32058,
+        "City": "Lawtey",
+        "Type": "Standard",
+        "City_1": "Lawtey",
+        "County": "Bradford",
+        "County_Code": 12007
+    },
+    {
+        "Zip_Code": 32059,
+        "City": "Lee",
+        "Type": "Standard",
+        "City_1": "Lee",
+        "County": "Madison",
+        "County_Code": 12079
+    },
+    {
+        "Zip_Code": 32060,
+        "City": "Live Oak",
+        "Type": "Standard",
+        "City_1": "Live Oak",
+        "County": "Suwannee",
+        "County_Code": 12121
+    },
+    {
+        "Zip_Code": 32061,
+        "City": "Lulu",
+        "Type": "Standard",
+        "City_1": "Lulu",
+        "County": "Columbia",
+        "County_Code": 12023
+    },
+    {
+        "Zip_Code": 32062,
+        "City": "McAlpin",
+        "Type": "Standard",
+        "City_1": "McAlpin",
+        "County": "Suwannee",
+        "County_Code": 12121
+    },
+    {
+        "Zip_Code": 32063,
+        "City": "Macclenny",
+        "Type": "Standard",
+        "City_1": "Macclenny",
+        "County": "Baker",
+        "County_Code": 12003
+    },
+    {
+        "Zip_Code": 32064,
+        "City": "Live Oak",
+        "Type": "Standard",
+        "City_1": "Live Oak",
+        "County": "Suwannee",
+        "County_Code": 12121
+    },
+    {
+        "Zip_Code": 32065,
+        "City": "Orange Park",
+        "Type": "Standard",
+        "City_1": "Orange Park",
+        "County": "Clay",
+        "County_Code": 12019
+    },
+    {
+        "Zip_Code": 32066,
+        "City": "Mayo",
+        "Type": "Standard",
+        "City_1": "Mayo",
+        "County": "Lafayette",
+        "County_Code": 12067
+    },
+    {
+        "Zip_Code": 32068,
+        "City": "Middleburg",
+        "Type": "Standard",
+        "City_1": "Middleburg",
+        "County": "Clay",
+        "County_Code": 12019
+    },
+    {
+        "Zip_Code": 32071,
+        "City": "O'Brien",
+        "Type": "Standard",
+        "City_1": "O'Brien",
+        "County": "Suwannee",
+        "County_Code": 12121
+    },
+    {
+        "Zip_Code": 32073,
+        "City": "Orange Park",
+        "Type": "Standard",
+        "City_1": "Orange Park",
+        "County": "Clay",
+        "County_Code": 12019
+    },
+    {
+        "Zip_Code": 32079,
+        "City": "Penney Farms",
+        "Type": "POBox",
+        "City_1": "Penney Farms",
+        "County": "Clay",
+        "County_Code": 12019
+    },
+    {
+        "Zip_Code": 32080,
+        "City": "Saint Augustine",
+        "Type": "Standard",
+        "City_1": "Saint Augustine",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32081,
+        "City": "Ponte Vedra",
+        "Type": "Standard",
+        "City_1": "Ponte Vedra",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32082,
+        "City": "Ponte Vedra Beach",
+        "Type": "Standard",
+        "City_1": "Ponte Vedra Beach",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32083,
+        "City": "Raiford",
+        "Type": "Standard",
+        "City_1": "Raiford",
+        "County": "Union",
+        "County_Code": 12125
+    },
+    {
+        "Zip_Code": 32084,
+        "City": "Saint Augustine",
+        "Type": "Standard",
+        "City_1": "Saint Augustine",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32086,
+        "City": "Saint Augustine",
+        "Type": "Standard",
+        "City_1": "Saint Augustine",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32087,
+        "City": "Sanderson",
+        "Type": "Standard",
+        "City_1": "Sanderson",
+        "County": "Baker",
+        "County_Code": 12003
+    },
+    {
+        "Zip_Code": 32091,
+        "City": "Starke",
+        "Type": "Standard",
+        "City_1": "Starke",
+        "County": "Bradford",
+        "County_Code": 12007
+    },
+    {
+        "Zip_Code": 32092,
+        "City": "Saint Augustine",
+        "Type": "Standard",
+        "City_1": "Saint Augustine",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32094,
+        "City": "Wellborn",
+        "Type": "Standard",
+        "City_1": "Wellborn",
+        "County": "Suwannee",
+        "County_Code": 12121
+    },
+    {
+        "Zip_Code": 32095,
+        "City": "Saint Augustine",
+        "Type": "Standard",
+        "City_1": "Saint Augustine",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32096,
+        "City": "White Springs",
+        "Type": "Standard",
+        "City_1": "White Springs",
+        "County": "Hamilton",
+        "County_Code": 12047
+    },
+    {
+        "Zip_Code": 32097,
+        "City": "Yulee",
+        "Type": "Standard",
+        "City_1": "Yulee",
+        "County": "Nassau",
+        "County_Code": 12089
+    },
+    {
+        "Zip_Code": 32102,
+        "City": "Astor",
+        "Type": "Standard",
+        "City_1": "Astor",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32110,
+        "City": "Bunnell",
+        "Type": "Standard",
+        "City_1": "Bunnell",
+        "County": "Flagler",
+        "County_Code": 12035
+    },
+    {
+        "Zip_Code": 32112,
+        "City": "Crescent City",
+        "Type": "Standard",
+        "City_1": "Crescent City",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32113,
+        "City": "Citra",
+        "Type": "Standard",
+        "City_1": "Citra",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32114,
+        "City": "Daytona Beach",
+        "Type": "Standard",
+        "City_1": "Daytona Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32117,
+        "City": "Daytona Beach",
+        "Type": "Standard",
+        "City_1": "Daytona Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32118,
+        "City": "Daytona Beach",
+        "Type": "Standard",
+        "City_1": "Daytona Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32119,
+        "City": "Daytona Beach",
+        "Type": "Standard",
+        "City_1": "Daytona Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32124,
+        "City": "Daytona Beach",
+        "Type": "Standard",
+        "City_1": "Daytona Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32127,
+        "City": "Port Orange",
+        "Type": "Standard",
+        "City_1": "Port Orange",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32128,
+        "City": "Port Orange",
+        "Type": "Standard",
+        "City_1": "Port Orange",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32129,
+        "City": "Port Orange",
+        "Type": "Standard",
+        "City_1": "Port Orange",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32130,
+        "City": "De Leon Springs",
+        "Type": "Standard",
+        "City_1": "De Leon Springs",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32131,
+        "City": "East Palatka",
+        "Type": "Standard",
+        "City_1": "East Palatka",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32132,
+        "City": "Edgewater",
+        "Type": "Standard",
+        "City_1": "Edgewater",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32133,
+        "City": "Eastlake Weir",
+        "Type": "POBox",
+        "City_1": "Eastlake Weir",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32134,
+        "City": "Fort McCoy",
+        "Type": "Standard",
+        "City_1": "Fort McCoy",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32136,
+        "City": "Flagler Beach",
+        "Type": "Standard",
+        "City_1": "Flagler Beach",
+        "County": "Flagler",
+        "County_Code": 12035
+    },
+    {
+        "Zip_Code": 32137,
+        "City": "Palm Coast",
+        "Type": "Standard",
+        "City_1": "Palm Coast",
+        "County": "Flagler",
+        "County_Code": 12035
+    },
+    {
+        "Zip_Code": 32139,
+        "City": "Georgetown",
+        "Type": "Standard",
+        "City_1": "Georgetown",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32140,
+        "City": "Florahome",
+        "Type": "Standard",
+        "City_1": "Florahome",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32141,
+        "City": "Edgewater",
+        "Type": "Standard",
+        "City_1": "Edgewater",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32145,
+        "City": "Hastings",
+        "Type": "Standard",
+        "City_1": "Hastings",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32147,
+        "City": "Hollister",
+        "Type": "POBox",
+        "City_1": "Hollister",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32148,
+        "City": "Interlachen",
+        "Type": "Standard",
+        "City_1": "Interlachen",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32157,
+        "City": "Lake Como",
+        "Type": "POBox",
+        "City_1": "Lake Como",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32159,
+        "City": "Lady Lake",
+        "Type": "Standard",
+        "City_1": "Lady Lake",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32162,
+        "City": "The Villages",
+        "Type": "Standard",
+        "City_1": "The Villages",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 32164,
+        "City": "Palm Coast",
+        "Type": "Standard",
+        "City_1": "Palm Coast",
+        "County": "Flagler",
+        "County_Code": 12035
+    },
+    {
+        "Zip_Code": 32168,
+        "City": "New Smyrna Beach",
+        "Type": "Standard",
+        "City_1": "New Smyrna Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32169,
+        "City": "New Smyrna Beach",
+        "Type": "Standard",
+        "City_1": "New Smyrna Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32174,
+        "City": "Ormond Beach",
+        "Type": "Standard",
+        "City_1": "Ormond Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32176,
+        "City": "Ormond Beach",
+        "Type": "Standard",
+        "City_1": "Ormond Beach",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32177,
+        "City": "Palatka",
+        "Type": "Standard",
+        "City_1": "Palatka",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32179,
+        "City": "Ocklawaha",
+        "Type": "Standard",
+        "City_1": "Ocklawaha",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32180,
+        "City": "Pierson",
+        "Type": "Standard",
+        "City_1": "Pierson",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32181,
+        "City": "Pomona Park",
+        "Type": "Standard",
+        "City_1": "Pomona Park",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32187,
+        "City": "San Mateo",
+        "Type": "Standard",
+        "City_1": "San Mateo",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32189,
+        "City": "Satsuma",
+        "Type": "Standard",
+        "City_1": "Satsuma",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32190,
+        "City": "Seville",
+        "Type": "Standard",
+        "City_1": "Seville",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32193,
+        "City": "Welaka",
+        "Type": "Standard",
+        "City_1": "Welaka",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32195,
+        "City": "Weirsdale",
+        "Type": "Standard",
+        "City_1": "Weirsdale",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32202,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32204,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32205,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32206,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32207,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32208,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32209,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32210,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32211,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32212,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32216,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32217,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32218,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32219,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32220,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32221,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32222,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32223,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32224,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32225,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32226,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32227,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32228,
+        "City": "Jacksonville",
+        "Type": "POBox",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32233,
+        "City": "Atlantic Beach",
+        "Type": "Standard",
+        "City_1": "Atlantic Beach",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32234,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32244,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32246,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32250,
+        "City": "Jacksonville Beach",
+        "Type": "Standard",
+        "City_1": "Jacksonville Beach",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32254,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32256,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32257,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32258,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32259,
+        "City": "Saint Johns",
+        "Type": "Standard",
+        "City_1": "Saint Johns",
+        "County": "St. Johns",
+        "County_Code": 12109
+    },
+    {
+        "Zip_Code": 32266,
+        "City": "Neptune Beach",
+        "Type": "Standard",
+        "City_1": "Neptune Beach",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32277,
+        "City": "Jacksonville",
+        "Type": "Standard",
+        "City_1": "Jacksonville",
+        "County": "Duval",
+        "County_Code": 12031
+    },
+    {
+        "Zip_Code": 32301,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32303,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32304,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32305,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32308,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32309,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32310,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32311,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32312,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32317,
+        "City": "Tallahassee",
+        "Type": "Standard",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32320,
+        "City": "Apalachicola",
+        "Type": "Standard",
+        "City_1": "Apalachicola",
+        "County": "Franklin",
+        "County_Code": 12037
+    },
+    {
+        "Zip_Code": 32321,
+        "City": "Bristol",
+        "Type": "Standard",
+        "City_1": "Bristol",
+        "County": "Liberty",
+        "County_Code": 12077
+    },
+    {
+        "Zip_Code": 32322,
+        "City": "Carrabelle",
+        "Type": "Standard",
+        "City_1": "Carrabelle",
+        "County": "Franklin",
+        "County_Code": 12037
+    },
+    {
+        "Zip_Code": 32323,
+        "City": "Lanark Village",
+        "Type": "POBox",
+        "City_1": "Lanark Village",
+        "County": "Franklin",
+        "County_Code": 12037
+    },
+    {
+        "Zip_Code": 32324,
+        "City": "Chattahoochee",
+        "Type": "Standard",
+        "City_1": "Chattahoochee",
+        "County": "Gadsden",
+        "County_Code": 12039
+    },
+    {
+        "Zip_Code": 32327,
+        "City": "Crawfordville",
+        "Type": "Standard",
+        "City_1": "Crawfordville",
+        "County": "Wakulla",
+        "County_Code": 12129
+    },
+    {
+        "Zip_Code": 32328,
+        "City": "Eastpoint",
+        "Type": "Standard",
+        "City_1": "Eastpoint",
+        "County": "Franklin",
+        "County_Code": 12037
+    },
+    {
+        "Zip_Code": 32330,
+        "City": "Greensboro",
+        "Type": "POBox",
+        "City_1": "Greensboro",
+        "County": "Gadsden",
+        "County_Code": 12039
+    },
+    {
+        "Zip_Code": 32331,
+        "City": "Greenville",
+        "Type": "Standard",
+        "City_1": "Greenville",
+        "County": "Madison",
+        "County_Code": 12079
+    },
+    {
+        "Zip_Code": 32332,
+        "City": "Gretna",
+        "Type": "Standard",
+        "City_1": "Gretna",
+        "County": "Gadsden",
+        "County_Code": 12039
+    },
+    {
+        "Zip_Code": 32333,
+        "City": "Havana",
+        "Type": "Standard",
+        "City_1": "Havana",
+        "County": "Gadsden",
+        "County_Code": 12039
+    },
+    {
+        "Zip_Code": 32334,
+        "City": "Hosford",
+        "Type": "Standard",
+        "City_1": "Hosford",
+        "County": "Liberty",
+        "County_Code": 12077
+    },
+    {
+        "Zip_Code": 32336,
+        "City": "Lamont",
+        "Type": "Standard",
+        "City_1": "Lamont",
+        "County": "Jefferson",
+        "County_Code": 12065
+    },
+    {
+        "Zip_Code": 32340,
+        "City": "Madison",
+        "Type": "Standard",
+        "City_1": "Madison",
+        "County": "Madison",
+        "County_Code": 12079
+    },
+    {
+        "Zip_Code": 32343,
+        "City": "Midway",
+        "Type": "Standard",
+        "City_1": "Midway",
+        "County": "Gadsden",
+        "County_Code": 12039
+    },
+    {
+        "Zip_Code": 32344,
+        "City": "Monticello",
+        "Type": "Standard",
+        "City_1": "Monticello",
+        "County": "Jefferson",
+        "County_Code": 12065
+    },
+    {
+        "Zip_Code": 32346,
+        "City": "Panacea",
+        "Type": "Standard",
+        "City_1": "Panacea",
+        "County": "Wakulla",
+        "County_Code": 12129
+    },
+    {
+        "Zip_Code": 32347,
+        "City": "Perry",
+        "Type": "Standard",
+        "City_1": "Perry",
+        "County": "Taylor",
+        "County_Code": 12123
+    },
+    {
+        "Zip_Code": 32348,
+        "City": "Perry",
+        "Type": "Standard",
+        "City_1": "Perry",
+        "County": "Taylor",
+        "County_Code": 12123
+    },
+    {
+        "Zip_Code": 32350,
+        "City": "Pinetta",
+        "Type": "Standard",
+        "City_1": "Pinetta",
+        "County": "Madison",
+        "County_Code": 12079
+    },
+    {
+        "Zip_Code": 32351,
+        "City": "Quincy",
+        "Type": "Standard",
+        "City_1": "Quincy",
+        "County": "Gadsden",
+        "County_Code": 12039
+    },
+    {
+        "Zip_Code": 32352,
+        "City": "Quincy",
+        "Type": "Standard",
+        "City_1": "Quincy",
+        "County": "Gadsden",
+        "County_Code": 12039
+    },
+    {
+        "Zip_Code": 32355,
+        "City": "Saint Marks",
+        "Type": "POBox",
+        "City_1": "Saint Marks",
+        "County": "Wakulla",
+        "County_Code": 12129
+    },
+    {
+        "Zip_Code": 32356,
+        "City": "Salem",
+        "Type": "Standard",
+        "City_1": "Salem",
+        "County": "Taylor",
+        "County_Code": 12123
+    },
+    {
+        "Zip_Code": 32358,
+        "City": "Sopchoppy",
+        "Type": "Standard",
+        "City_1": "Sopchoppy",
+        "County": "Wakulla",
+        "County_Code": 12129
+    },
+    {
+        "Zip_Code": 32359,
+        "City": "Steinhatchee",
+        "Type": "Standard",
+        "City_1": "Steinhatchee",
+        "County": "Taylor",
+        "County_Code": 12123
+    },
+    {
+        "Zip_Code": 32361,
+        "City": "Wacissa",
+        "Type": "POBox",
+        "City_1": "Wacissa",
+        "County": "Jefferson",
+        "County_Code": 12065
+    },
+    {
+        "Zip_Code": 32399,
+        "City": "Tallahassee",
+        "Type": "Unique",
+        "City_1": "Tallahassee",
+        "County": "Leon",
+        "County_Code": 12073
+    },
+    {
+        "Zip_Code": 32401,
+        "City": "Panama City",
+        "Type": "Standard",
+        "City_1": "Panama City",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32403,
+        "City": "Panama City",
+        "Type": "Standard",
+        "City_1": "Panama City",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32404,
+        "City": "Panama City",
+        "Type": "Standard",
+        "City_1": "Panama City",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32405,
+        "City": "Panama City",
+        "Type": "Standard",
+        "City_1": "Panama City",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32407,
+        "City": "Panama City Beach",
+        "Type": "Standard",
+        "City_1": "Panama City Beach",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32408,
+        "City": "Panama City",
+        "Type": "Standard",
+        "City_1": "Panama City",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32409,
+        "City": "Panama City",
+        "Type": "Standard",
+        "City_1": "Panama City",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32410,
+        "City": "Mexico Beach",
+        "Type": "POBox",
+        "City_1": "Mexico Beach",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32413,
+        "City": "Panama City Beach",
+        "Type": "Standard",
+        "City_1": "Panama City Beach",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32420,
+        "City": "Alford",
+        "Type": "Standard",
+        "City_1": "Alford",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32421,
+        "City": "Altha",
+        "Type": "Standard",
+        "City_1": "Altha",
+        "County": "Calhoun",
+        "County_Code": 12013
+    },
+    {
+        "Zip_Code": 32423,
+        "City": "Bascom",
+        "Type": "Standard",
+        "City_1": "Bascom",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32424,
+        "City": "Blountstown",
+        "Type": "Standard",
+        "City_1": "Blountstown",
+        "County": "Calhoun",
+        "County_Code": 12013
+    },
+    {
+        "Zip_Code": 32425,
+        "City": "Bonifay",
+        "Type": "Standard",
+        "City_1": "Bonifay",
+        "County": "Holmes",
+        "County_Code": 12059
+    },
+    {
+        "Zip_Code": 32426,
+        "City": "Campbellton",
+        "Type": "Standard",
+        "City_1": "Campbellton",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32427,
+        "City": "Caryville",
+        "Type": "Standard",
+        "City_1": "Caryville",
+        "County": "Washington",
+        "County_Code": 12133
+    },
+    {
+        "Zip_Code": 32428,
+        "City": "Chipley",
+        "Type": "Standard",
+        "City_1": "Chipley",
+        "County": "Washington",
+        "County_Code": 12133
+    },
+    {
+        "Zip_Code": 32430,
+        "City": "Clarksville",
+        "Type": "Standard",
+        "City_1": "Clarksville",
+        "County": "Calhoun",
+        "County_Code": 12013
+    },
+    {
+        "Zip_Code": 32431,
+        "City": "Cottondale",
+        "Type": "Standard",
+        "City_1": "Cottondale",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32432,
+        "City": "Cypress",
+        "Type": "POBox",
+        "City_1": "Cypress",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32433,
+        "City": "Defuniak Springs",
+        "Type": "Standard",
+        "City_1": "Defuniak Springs",
+        "County": "Walton",
+        "County_Code": 12131
+    },
+    {
+        "Zip_Code": 32435,
+        "City": "Defuniak Springs",
+        "Type": "Standard",
+        "City_1": "Defuniak Springs",
+        "County": "Walton",
+        "County_Code": 12131
+    },
+    {
+        "Zip_Code": 32437,
+        "City": "Ebro",
+        "Type": "Standard",
+        "City_1": "Ebro",
+        "County": "Washington",
+        "County_Code": 12133
+    },
+    {
+        "Zip_Code": 32438,
+        "City": "Fountain",
+        "Type": "Standard",
+        "City_1": "Fountain",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32439,
+        "City": "Freeport",
+        "Type": "Standard",
+        "City_1": "Freeport",
+        "County": "Walton",
+        "County_Code": 12131
+    },
+    {
+        "Zip_Code": 32440,
+        "City": "Graceville",
+        "Type": "Standard",
+        "City_1": "Graceville",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32442,
+        "City": "Grand Ridge",
+        "Type": "Standard",
+        "City_1": "Grand Ridge",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32443,
+        "City": "Greenwood",
+        "Type": "Standard",
+        "City_1": "Greenwood",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32444,
+        "City": "Lynn Haven",
+        "Type": "Standard",
+        "City_1": "Lynn Haven",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32445,
+        "City": "Malone",
+        "Type": "Standard",
+        "City_1": "Malone",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32446,
+        "City": "Marianna",
+        "Type": "Standard",
+        "City_1": "Marianna",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32447,
+        "City": "Marianna",
+        "Type": "POBox",
+        "City_1": "Marianna",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32448,
+        "City": "Marianna",
+        "Type": "Standard",
+        "City_1": "Marianna",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32449,
+        "City": "Wewahitchka",
+        "Type": "Standard",
+        "City_1": "Wewahitchka",
+        "County": "Calhoun",
+        "County_Code": 12013
+    },
+    {
+        "Zip_Code": 32455,
+        "City": "Ponce De Leon",
+        "Type": "Standard",
+        "City_1": "Ponce De Leon",
+        "County": "Walton",
+        "County_Code": 12131
+    },
+    {
+        "Zip_Code": 32456,
+        "City": "Port Saint Joe",
+        "Type": "Standard",
+        "City_1": "Port Saint Joe",
+        "County": "Gulf",
+        "County_Code": 12045
+    },
+    {
+        "Zip_Code": 32459,
+        "City": "Santa Rosa Beach",
+        "Type": "Standard",
+        "City_1": "Santa Rosa Beach",
+        "County": "Walton",
+        "County_Code": 12131
+    },
+    {
+        "Zip_Code": 32460,
+        "City": "Sneads",
+        "Type": "Standard",
+        "City_1": "Sneads",
+        "County": "Jackson",
+        "County_Code": 12063
+    },
+    {
+        "Zip_Code": 32461,
+        "City": "Inlet Beach",
+        "Type": "POBox",
+        "City_1": "Inlet Beach",
+        "County": "Walton",
+        "County_Code": 12131
+    },
+    {
+        "Zip_Code": 32462,
+        "City": "Vernon",
+        "Type": "Standard",
+        "City_1": "Vernon",
+        "County": "Washington",
+        "County_Code": 12133
+    },
+    {
+        "Zip_Code": 32463,
+        "City": "Wausau",
+        "Type": "POBox",
+        "City_1": "Wausau",
+        "County": "Washington",
+        "County_Code": 12133
+    },
+    {
+        "Zip_Code": 32464,
+        "City": "Westville",
+        "Type": "Standard",
+        "City_1": "Westville",
+        "County": "Holmes",
+        "County_Code": 12059
+    },
+    {
+        "Zip_Code": 32465,
+        "City": "Wewahitchka",
+        "Type": "Standard",
+        "City_1": "Wewahitchka",
+        "County": "Gulf",
+        "County_Code": 12045
+    },
+    {
+        "Zip_Code": 32466,
+        "City": "Youngstown",
+        "Type": "Standard",
+        "City_1": "Youngstown",
+        "County": "Bay",
+        "County_Code": 12005
+    },
+    {
+        "Zip_Code": 32501,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32502,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32503,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32504,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32505,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32506,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32507,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32508,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32509,
+        "City": "Pensacola",
+        "Type": "Unique",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32511,
+        "City": "Pensacola",
+        "Type": "Unique",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32514,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32526,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32530,
+        "City": "Bagdad",
+        "Type": "POBox",
+        "City_1": "Bagdad",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32531,
+        "City": "Baker",
+        "Type": "Standard",
+        "City_1": "Baker",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32533,
+        "City": "Cantonment",
+        "Type": "Standard",
+        "City_1": "Cantonment",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32534,
+        "City": "Pensacola",
+        "Type": "Standard",
+        "City_1": "Pensacola",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32535,
+        "City": "Century",
+        "Type": "Standard",
+        "City_1": "Century",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32536,
+        "City": "Crestview",
+        "Type": "Standard",
+        "City_1": "Crestview",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32539,
+        "City": "Crestview",
+        "Type": "Standard",
+        "City_1": "Crestview",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32541,
+        "City": "Destin",
+        "Type": "Standard",
+        "City_1": "Destin",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32542,
+        "City": "Eglin AFB",
+        "Type": "Standard",
+        "City_1": "Eglin AFB",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32544,
+        "City": "Hurlburt Field",
+        "Type": "Standard",
+        "City_1": "Hurlburt Field",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32547,
+        "City": "Fort Walton Beach",
+        "Type": "Standard",
+        "City_1": "Fort Walton Beach",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32548,
+        "City": "Fort Walton Beach",
+        "Type": "Standard",
+        "City_1": "Fort Walton Beach",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32550,
+        "City": "Miramar Beach",
+        "Type": "Standard",
+        "City_1": "Miramar Beach",
+        "County": "Walton",
+        "County_Code": 12131
+    },
+    {
+        "Zip_Code": 32561,
+        "City": "Gulf Breeze",
+        "Type": "Standard",
+        "City_1": "Gulf Breeze",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32563,
+        "City": "Gulf Breeze",
+        "Type": "Standard",
+        "City_1": "Gulf Breeze",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32564,
+        "City": "Holt",
+        "Type": "Standard",
+        "City_1": "Holt",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32565,
+        "City": "Jay",
+        "Type": "Standard",
+        "City_1": "Jay",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32566,
+        "City": "Navarre",
+        "Type": "Standard",
+        "City_1": "Navarre",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32567,
+        "City": "Laurel Hill",
+        "Type": "Standard",
+        "City_1": "Laurel Hill",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32568,
+        "City": "McDavid",
+        "Type": "Standard",
+        "City_1": "McDavid",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32569,
+        "City": "Mary Esther",
+        "Type": "Standard",
+        "City_1": "Mary Esther",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32570,
+        "City": "Milton",
+        "Type": "Standard",
+        "City_1": "Milton",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32571,
+        "City": "Milton",
+        "Type": "Standard",
+        "City_1": "Milton",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32577,
+        "City": "Molino",
+        "Type": "Standard",
+        "City_1": "Molino",
+        "County": "Escambia",
+        "County_Code": 12033
+    },
+    {
+        "Zip_Code": 32578,
+        "City": "Niceville",
+        "Type": "Standard",
+        "City_1": "Niceville",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32579,
+        "City": "Shalimar",
+        "Type": "Standard",
+        "City_1": "Shalimar",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32580,
+        "City": "Valparaiso",
+        "Type": "Standard",
+        "City_1": "Valparaiso",
+        "County": "Okaloosa",
+        "County_Code": 12091
+    },
+    {
+        "Zip_Code": 32583,
+        "City": "Milton",
+        "Type": "Standard",
+        "City_1": "Milton",
+        "County": "Santa Rosa",
+        "County_Code": 12113
+    },
+    {
+        "Zip_Code": 32601,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32603,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32605,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32606,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32607,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32608,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32609,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32612,
+        "City": "Gainesville",
+        "Type": "Unique",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32615,
+        "City": "Alachua",
+        "Type": "Standard",
+        "City_1": "Alachua",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32616,
+        "City": "Alachua",
+        "Type": "POBox",
+        "City_1": "Alachua",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32617,
+        "City": "Anthony",
+        "Type": "Standard",
+        "City_1": "Anthony",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32618,
+        "City": "Archer",
+        "Type": "Standard",
+        "City_1": "Archer",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32619,
+        "City": "Bell",
+        "Type": "Standard",
+        "City_1": "Bell",
+        "County": "Gilchrist",
+        "County_Code": 12041
+    },
+    {
+        "Zip_Code": 32621,
+        "City": "Bronson",
+        "Type": "Standard",
+        "City_1": "Bronson",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 32622,
+        "City": "Brooker",
+        "Type": "Standard",
+        "City_1": "Brooker",
+        "County": "Bradford",
+        "County_Code": 12007
+    },
+    {
+        "Zip_Code": 32625,
+        "City": "Cedar Key",
+        "Type": "Standard",
+        "City_1": "Cedar Key",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 32626,
+        "City": "Chiefland",
+        "Type": "Standard",
+        "City_1": "Chiefland",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 32628,
+        "City": "Cross City",
+        "Type": "Standard",
+        "City_1": "Cross City",
+        "County": "Dixie",
+        "County_Code": 12029
+    },
+    {
+        "Zip_Code": 32631,
+        "City": "Earleton",
+        "Type": "Standard",
+        "City_1": "Earleton",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32639,
+        "City": "Gulf Hammock",
+        "Type": "POBox",
+        "City_1": "Gulf Hammock",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 32640,
+        "City": "Hawthorne",
+        "Type": "Standard",
+        "City_1": "Hawthorne",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32641,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32643,
+        "City": "High Springs",
+        "Type": "Standard",
+        "City_1": "High Springs",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32648,
+        "City": "Horseshoe Beach",
+        "Type": "Standard",
+        "City_1": "Horseshoe Beach",
+        "County": "Dixie",
+        "County_Code": 12029
+    },
+    {
+        "Zip_Code": 32653,
+        "City": "Gainesville",
+        "Type": "Standard",
+        "City_1": "Gainesville",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32656,
+        "City": "Keystone Heights",
+        "Type": "Standard",
+        "City_1": "Keystone Heights",
+        "County": "Clay",
+        "County_Code": 12019
+    },
+    {
+        "Zip_Code": 32658,
+        "City": "La Crosse",
+        "Type": "POBox",
+        "City_1": "La Crosse",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32664,
+        "City": "McIntosh",
+        "Type": "POBox",
+        "City_1": "McIntosh",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32666,
+        "City": "Melrose",
+        "Type": "Standard",
+        "City_1": "Melrose",
+        "County": "Putnam",
+        "County_Code": 12107
+    },
+    {
+        "Zip_Code": 32667,
+        "City": "Micanopy",
+        "Type": "Standard",
+        "City_1": "Micanopy",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32668,
+        "City": "Morriston",
+        "Type": "Standard",
+        "City_1": "Morriston",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 32669,
+        "City": "Newberry",
+        "Type": "Standard",
+        "City_1": "Newberry",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32680,
+        "City": "Old Town",
+        "Type": "Standard",
+        "City_1": "Old Town",
+        "County": "Dixie",
+        "County_Code": 12029
+    },
+    {
+        "Zip_Code": 32681,
+        "City": "Orange Lake",
+        "Type": "POBox",
+        "City_1": "Orange Lake",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32683,
+        "City": "Otter Creek",
+        "Type": "POBox",
+        "City_1": "Otter Creek",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 32686,
+        "City": "Reddick",
+        "Type": "Standard",
+        "City_1": "Reddick",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 32692,
+        "City": "Suwannee",
+        "Type": "POBox",
+        "City_1": "Suwannee",
+        "County": "Dixie",
+        "County_Code": 12029
+    },
+    {
+        "Zip_Code": 32693,
+        "City": "Trenton",
+        "Type": "Standard",
+        "City_1": "Trenton",
+        "County": "Gilchrist",
+        "County_Code": 12041
+    },
+    {
+        "Zip_Code": 32694,
+        "City": "Waldo",
+        "Type": "Standard",
+        "City_1": "Waldo",
+        "County": "Alachua",
+        "County_Code": 12001
+    },
+    {
+        "Zip_Code": 32696,
+        "City": "Williston",
+        "Type": "Standard",
+        "City_1": "Williston",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 32697,
+        "City": "Worthington Springs",
+        "Type": "POBox",
+        "City_1": "Worthington Springs",
+        "County": "Union",
+        "County_Code": 12125
+    },
+    {
+        "Zip_Code": 32701,
+        "City": "Altamonte Springs",
+        "Type": "Standard",
+        "City_1": "Altamonte Springs",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32702,
+        "City": "Altoona",
+        "Type": "Standard",
+        "City_1": "Altoona",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32703,
+        "City": "Apopka",
+        "Type": "Standard",
+        "City_1": "Apopka",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32707,
+        "City": "Casselberry",
+        "Type": "Standard",
+        "City_1": "Casselberry",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32708,
+        "City": "Winter Springs",
+        "Type": "Standard",
+        "City_1": "Winter Springs",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32709,
+        "City": "Christmas",
+        "Type": "Standard",
+        "City_1": "Christmas",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32712,
+        "City": "Apopka",
+        "Type": "Standard",
+        "City_1": "Apopka",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32713,
+        "City": "Debary",
+        "Type": "Standard",
+        "City_1": "Debary",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32714,
+        "City": "Altamonte Springs",
+        "Type": "Standard",
+        "City_1": "Altamonte Springs",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32720,
+        "City": "Deland",
+        "Type": "Standard",
+        "City_1": "Deland",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32724,
+        "City": "Deland",
+        "Type": "Standard",
+        "City_1": "Deland",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32725,
+        "City": "Deltona",
+        "Type": "Standard",
+        "City_1": "Deltona",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32726,
+        "City": "Eustis",
+        "Type": "Standard",
+        "City_1": "Eustis",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32730,
+        "City": "Casselberry",
+        "Type": "Standard",
+        "City_1": "Casselberry",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32732,
+        "City": "Geneva",
+        "Type": "Standard",
+        "City_1": "Geneva",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32735,
+        "City": "Grand Island",
+        "Type": "Standard",
+        "City_1": "Grand Island",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32736,
+        "City": "Eustis",
+        "Type": "Standard",
+        "City_1": "Eustis",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32738,
+        "City": "Deltona",
+        "Type": "Standard",
+        "City_1": "Deltona",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32744,
+        "City": "Lake Helen",
+        "Type": "Standard",
+        "City_1": "Lake Helen",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32746,
+        "City": "Lake Mary",
+        "Type": "Standard",
+        "City_1": "Lake Mary",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32750,
+        "City": "Longwood",
+        "Type": "Standard",
+        "City_1": "Longwood",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32751,
+        "City": "Maitland",
+        "Type": "Standard",
+        "City_1": "Maitland",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32754,
+        "City": "Mims",
+        "Type": "Standard",
+        "City_1": "Mims",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32757,
+        "City": "Mount Dora",
+        "Type": "Standard",
+        "City_1": "Mount Dora",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32759,
+        "City": "Oak Hill",
+        "Type": "Standard",
+        "City_1": "Oak Hill",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32763,
+        "City": "Orange City",
+        "Type": "Standard",
+        "City_1": "Orange City",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32764,
+        "City": "Osteen",
+        "Type": "Standard",
+        "City_1": "Osteen",
+        "County": "Volusia",
+        "County_Code": 12127
+    },
+    {
+        "Zip_Code": 32765,
+        "City": "Oviedo",
+        "Type": "Standard",
+        "City_1": "Oviedo",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32766,
+        "City": "Oviedo",
+        "Type": "Standard",
+        "City_1": "Oviedo",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32767,
+        "City": "Paisley",
+        "Type": "Standard",
+        "City_1": "Paisley",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32771,
+        "City": "Sanford",
+        "Type": "Standard",
+        "City_1": "Sanford",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32773,
+        "City": "Sanford",
+        "Type": "Standard",
+        "City_1": "Sanford",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32776,
+        "City": "Sorrento",
+        "Type": "Standard",
+        "City_1": "Sorrento",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32778,
+        "City": "Tavares",
+        "Type": "Standard",
+        "City_1": "Tavares",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32779,
+        "City": "Longwood",
+        "Type": "Standard",
+        "City_1": "Longwood",
+        "County": "Seminole",
+        "County_Code": 12117
+    },
+    {
+        "Zip_Code": 32780,
+        "City": "Titusville",
+        "Type": "Standard",
+        "City_1": "Titusville",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32784,
+        "City": "Umatilla",
+        "Type": "Standard",
+        "City_1": "Umatilla",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 32789,
+        "City": "Winter Park",
+        "Type": "Standard",
+        "City_1": "Winter Park",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32792,
+        "City": "Winter Park",
+        "Type": "Standard",
+        "City_1": "Winter Park",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32796,
+        "City": "Titusville",
+        "Type": "Standard",
+        "City_1": "Titusville",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32798,
+        "City": "Zellwood",
+        "Type": "Standard",
+        "City_1": "Zellwood",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32801,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32803,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32804,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32805,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32806,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32807,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32808,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32809,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32810,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32811,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32812,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32814,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32817,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32818,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32819,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32820,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32821,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32822,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32824,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32825,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32826,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32827,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32828,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32829,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32830,
+        "City": "Orlando",
+        "Type": "POBox",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32831,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32832,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32833,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32835,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32836,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32837,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32839,
+        "City": "Orlando",
+        "Type": "Standard",
+        "City_1": "Orlando",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 32901,
+        "City": "Melbourne",
+        "Type": "Standard",
+        "City_1": "Melbourne",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32903,
+        "City": "Indialantic",
+        "Type": "Standard",
+        "City_1": "Indialantic",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32904,
+        "City": "Melbourne",
+        "Type": "Standard",
+        "City_1": "Melbourne",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32905,
+        "City": "Palm Bay",
+        "Type": "Standard",
+        "City_1": "Palm Bay",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32907,
+        "City": "Palm Bay",
+        "Type": "Standard",
+        "City_1": "Palm Bay",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32908,
+        "City": "Palm Bay",
+        "Type": "Standard",
+        "City_1": "Palm Bay",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32909,
+        "City": "Palm Bay",
+        "Type": "Standard",
+        "City_1": "Palm Bay",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32920,
+        "City": "Cape Canaveral",
+        "Type": "Standard",
+        "City_1": "Cape Canaveral",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32922,
+        "City": "Cocoa",
+        "Type": "Standard",
+        "City_1": "Cocoa",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32925,
+        "City": "Patrick AFB",
+        "Type": "Standard",
+        "City_1": "Patrick AFB",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32926,
+        "City": "Cocoa",
+        "Type": "Standard",
+        "City_1": "Cocoa",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32927,
+        "City": "Cocoa",
+        "Type": "Standard",
+        "City_1": "Cocoa",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32931,
+        "City": "Cocoa Beach",
+        "Type": "Standard",
+        "City_1": "Cocoa Beach",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32934,
+        "City": "Melbourne",
+        "Type": "Standard",
+        "City_1": "Melbourne",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32935,
+        "City": "Melbourne",
+        "Type": "Standard",
+        "City_1": "Melbourne",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32937,
+        "City": "Satellite Beach",
+        "Type": "Standard",
+        "City_1": "Satellite Beach",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32940,
+        "City": "Melbourne",
+        "Type": "Standard",
+        "City_1": "Melbourne",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32948,
+        "City": "Fellsmere",
+        "Type": "Standard",
+        "City_1": "Fellsmere",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32949,
+        "City": "Grant",
+        "Type": "Standard",
+        "City_1": "Grant",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32950,
+        "City": "Malabar",
+        "Type": "Standard",
+        "City_1": "Malabar",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32951,
+        "City": "Melbourne Beach",
+        "Type": "Standard",
+        "City_1": "Melbourne Beach",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32952,
+        "City": "Merritt Island",
+        "Type": "Standard",
+        "City_1": "Merritt Island",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32953,
+        "City": "Merritt Island",
+        "Type": "Standard",
+        "City_1": "Merritt Island",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32955,
+        "City": "Rockledge",
+        "Type": "Standard",
+        "City_1": "Rockledge",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 32958,
+        "City": "Sebastian",
+        "Type": "Standard",
+        "City_1": "Sebastian",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32960,
+        "City": "Vero Beach",
+        "Type": "Standard",
+        "City_1": "Vero Beach",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32962,
+        "City": "Vero Beach",
+        "Type": "Standard",
+        "City_1": "Vero Beach",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32963,
+        "City": "Vero Beach",
+        "Type": "Standard",
+        "City_1": "Vero Beach",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32966,
+        "City": "Vero Beach",
+        "Type": "Standard",
+        "City_1": "Vero Beach",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32967,
+        "City": "Vero Beach",
+        "Type": "Standard",
+        "City_1": "Vero Beach",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32968,
+        "City": "Vero Beach",
+        "Type": "Standard",
+        "City_1": "Vero Beach",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32970,
+        "City": "Wabasso",
+        "Type": "POBox",
+        "City_1": "Wabasso",
+        "County": "Indian River",
+        "County_Code": 12061
+    },
+    {
+        "Zip_Code": 32976,
+        "City": "Sebastian",
+        "Type": "Standard",
+        "City_1": "Sebastian",
+        "County": "Brevard",
+        "County_Code": 12009
+    },
+    {
+        "Zip_Code": 33001,
+        "City": "Long Key",
+        "Type": "POBox",
+        "City_1": "Long Key",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33004,
+        "City": "Dania",
+        "Type": "Standard",
+        "City_1": "Dania",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33009,
+        "City": "Hallandale",
+        "Type": "Standard",
+        "City_1": "Hallandale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33010,
+        "City": "Hialeah",
+        "Type": "Standard",
+        "City_1": "Hialeah",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33012,
+        "City": "Hialeah",
+        "Type": "Standard",
+        "City_1": "Hialeah",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33013,
+        "City": "Hialeah",
+        "Type": "Standard",
+        "City_1": "Hialeah",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33014,
+        "City": "Hialeah",
+        "Type": "Standard",
+        "City_1": "Hialeah",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33015,
+        "City": "Hialeah",
+        "Type": "Standard",
+        "City_1": "Hialeah",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33016,
+        "City": "Hialeah",
+        "Type": "Standard",
+        "City_1": "Hialeah",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33018,
+        "City": "Hialeah",
+        "Type": "Standard",
+        "City_1": "Hialeah",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33019,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33020,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33021,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33023,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33024,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33025,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33026,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33027,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33028,
+        "City": "Pembroke Pines",
+        "Type": "Standard",
+        "City_1": "Pembroke Pines",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33029,
+        "City": "Hollywood",
+        "Type": "Standard",
+        "City_1": "Hollywood",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33030,
+        "City": "Homestead",
+        "Type": "Standard",
+        "City_1": "Homestead",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33031,
+        "City": "Homestead",
+        "Type": "Standard",
+        "City_1": "Homestead",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33032,
+        "City": "Homestead",
+        "Type": "Standard",
+        "City_1": "Homestead",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33033,
+        "City": "Homestead",
+        "Type": "Standard",
+        "City_1": "Homestead",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33034,
+        "City": "Homestead",
+        "Type": "Standard",
+        "City_1": "Homestead",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33035,
+        "City": "Homestead",
+        "Type": "Standard",
+        "City_1": "Homestead",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33036,
+        "City": "Islamorada",
+        "Type": "Standard",
+        "City_1": "Islamorada",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33037,
+        "City": "Key Largo",
+        "Type": "Standard",
+        "City_1": "Key Largo",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33039,
+        "City": "Homestead",
+        "Type": "Unique",
+        "City_1": "Homestead",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33040,
+        "City": "Key West",
+        "Type": "Standard",
+        "City_1": "Key West",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33042,
+        "City": "Summerland Key",
+        "Type": "Standard",
+        "City_1": "Summerland Key",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33043,
+        "City": "Big Pine Key",
+        "Type": "Standard",
+        "City_1": "Big Pine Key",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33050,
+        "City": "Marathon",
+        "Type": "Standard",
+        "City_1": "Marathon",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33051,
+        "City": "Key Colony Beach",
+        "Type": "POBox",
+        "City_1": "Key Colony Beach",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33054,
+        "City": "Opa Locka",
+        "Type": "Standard",
+        "City_1": "Opa Locka",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33055,
+        "City": "Opa Locka",
+        "Type": "Standard",
+        "City_1": "Opa Locka",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33056,
+        "City": "Miami Gardens",
+        "Type": "Standard",
+        "City_1": "Miami Gardens",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33060,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33062,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33063,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33064,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33065,
+        "City": "Coral Springs",
+        "Type": "Standard",
+        "City_1": "Coral Springs",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33066,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33067,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33068,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33069,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33070,
+        "City": "Tavernier",
+        "Type": "Standard",
+        "City_1": "Tavernier",
+        "County": "Monroe",
+        "County_Code": 12087
+    },
+    {
+        "Zip_Code": 33071,
+        "City": "Coral Springs",
+        "Type": "Standard",
+        "City_1": "Coral Springs",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33073,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33076,
+        "City": "Pompano Beach",
+        "Type": "Standard",
+        "City_1": "Pompano Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33101,
+        "City": "Miami",
+        "Type": "POBox",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33109,
+        "City": "Miami Beach",
+        "Type": "Standard",
+        "City_1": "Miami Beach",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33122,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33125,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33126,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33127,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33128,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33129,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33130,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33131,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33132,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33133,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33134,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33135,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33136,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33137,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33138,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33139,
+        "City": "Miami Beach",
+        "Type": "Standard",
+        "City_1": "Miami Beach",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33140,
+        "City": "Miami Beach",
+        "Type": "Standard",
+        "City_1": "Miami Beach",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33141,
+        "City": "Miami Beach",
+        "Type": "Standard",
+        "City_1": "Miami Beach",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33142,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33143,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33144,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33145,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33146,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33147,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33149,
+        "City": "Key Biscayne",
+        "Type": "Standard",
+        "City_1": "Key Biscayne",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33150,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33154,
+        "City": "Miami Beach",
+        "Type": "Standard",
+        "City_1": "Miami Beach",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33155,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33156,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33157,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33158,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33160,
+        "City": "North Miami Beach",
+        "Type": "Standard",
+        "City_1": "North Miami Beach",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33161,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33162,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33165,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33166,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33167,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33168,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33169,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33170,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33172,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33173,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33174,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33175,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33176,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33177,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33178,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33179,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33180,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33181,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33182,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33183,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33184,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33185,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33186,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33187,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33189,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33190,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33193,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33194,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33196,
+        "City": "Miami",
+        "Type": "Standard",
+        "City_1": "Miami",
+        "County": "Miami-Dade",
+        "County_Code": 12086
+    },
+    {
+        "Zip_Code": 33301,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33304,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33305,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33306,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33308,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33309,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33311,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33312,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33313,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33314,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33315,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33316,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33317,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33319,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33321,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33322,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33323,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33324,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33325,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33326,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33327,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33328,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33330,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33331,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33332,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33334,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33351,
+        "City": "Fort Lauderdale",
+        "Type": "Standard",
+        "City_1": "Fort Lauderdale",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33401,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33403,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33404,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33405,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33406,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33407,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33408,
+        "City": "North Palm Beach",
+        "Type": "Standard",
+        "City_1": "North Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33409,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33410,
+        "City": "Palm Beach Gardens",
+        "Type": "Standard",
+        "City_1": "Palm Beach Gardens",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33411,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33412,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33413,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33414,
+        "City": "Wellington",
+        "Type": "Standard",
+        "City_1": "Wellington",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33415,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33417,
+        "City": "West Palm Beach",
+        "Type": "Standard",
+        "City_1": "West Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33418,
+        "City": "Palm Beach Gardens",
+        "Type": "Standard",
+        "City_1": "Palm Beach Gardens",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33426,
+        "City": "Boynton Beach",
+        "Type": "Standard",
+        "City_1": "Boynton Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33428,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33430,
+        "City": "Belle Glade",
+        "Type": "Standard",
+        "City_1": "Belle Glade",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33431,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33432,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33433,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33434,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33435,
+        "City": "Boynton Beach",
+        "Type": "Standard",
+        "City_1": "Boynton Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33436,
+        "City": "Boynton Beach",
+        "Type": "Standard",
+        "City_1": "Boynton Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33437,
+        "City": "Boynton Beach",
+        "Type": "Standard",
+        "City_1": "Boynton Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33438,
+        "City": "Canal Point",
+        "Type": "Standard",
+        "City_1": "Canal Point",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33440,
+        "City": "Clewiston",
+        "Type": "Standard",
+        "City_1": "Clewiston",
+        "County": "Hendry",
+        "County_Code": 12051
+    },
+    {
+        "Zip_Code": 33441,
+        "City": "Deerfield Beach",
+        "Type": "Standard",
+        "City_1": "Deerfield Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33442,
+        "City": "Deerfield Beach",
+        "Type": "Standard",
+        "City_1": "Deerfield Beach",
+        "County": "Broward",
+        "County_Code": 12011
+    },
+    {
+        "Zip_Code": 33444,
+        "City": "Delray Beach",
+        "Type": "Standard",
+        "City_1": "Delray Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33445,
+        "City": "Delray Beach",
+        "Type": "Standard",
+        "City_1": "Delray Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33446,
+        "City": "Delray Beach",
+        "Type": "Standard",
+        "City_1": "Delray Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33449,
+        "City": "Lake Worth",
+        "Type": "Standard",
+        "City_1": "Lake Worth",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33455,
+        "City": "Hobe Sound",
+        "Type": "Standard",
+        "City_1": "Hobe Sound",
+        "County": "Martin",
+        "County_Code": 12085
+    },
+    {
+        "Zip_Code": 33458,
+        "City": "Jupiter",
+        "Type": "Standard",
+        "City_1": "Jupiter",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33460,
+        "City": "Lake Worth Beach",
+        "Type": "Standard",
+        "City_1": "Lake Worth Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33461,
+        "City": "Lake Worth",
+        "Type": "Standard",
+        "City_1": "Lake Worth",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33462,
+        "City": "Lake Worth",
+        "Type": "Standard",
+        "City_1": "Lake Worth",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33463,
+        "City": "Lake Worth",
+        "Type": "Standard",
+        "City_1": "Lake Worth",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33467,
+        "City": "Lake Worth",
+        "Type": "Standard",
+        "City_1": "Lake Worth",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33469,
+        "City": "Jupiter",
+        "Type": "Standard",
+        "City_1": "Jupiter",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33470,
+        "City": "Loxahatchee",
+        "Type": "Standard",
+        "City_1": "Loxahatchee",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33471,
+        "City": "Moore Haven",
+        "Type": "Standard",
+        "City_1": "Moore Haven",
+        "County": "Glades",
+        "County_Code": 12043
+    },
+    {
+        "Zip_Code": 33472,
+        "City": "Boynton Beach",
+        "Type": "Standard",
+        "City_1": "Boynton Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33473,
+        "City": "Boynton Beach",
+        "Type": "Standard",
+        "City_1": "Boynton Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33476,
+        "City": "Pahokee",
+        "Type": "Standard",
+        "City_1": "Pahokee",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33477,
+        "City": "Jupiter",
+        "Type": "Standard",
+        "City_1": "Jupiter",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33478,
+        "City": "Jupiter",
+        "Type": "Standard",
+        "City_1": "Jupiter",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33480,
+        "City": "Palm Beach",
+        "Type": "Standard",
+        "City_1": "Palm Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33483,
+        "City": "Delray Beach",
+        "Type": "Standard",
+        "City_1": "Delray Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33484,
+        "City": "Delray Beach",
+        "Type": "Standard",
+        "City_1": "Delray Beach",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33486,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33487,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33493,
+        "City": "South Bay",
+        "Type": "Standard",
+        "City_1": "South Bay",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33496,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33498,
+        "City": "Boca Raton",
+        "Type": "Standard",
+        "City_1": "Boca Raton",
+        "County": "Palm Beach",
+        "County_Code": 12099
+    },
+    {
+        "Zip_Code": 33503,
+        "City": "Balm",
+        "Type": "POBox",
+        "City_1": "Balm",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33510,
+        "City": "Brandon",
+        "Type": "Standard",
+        "City_1": "Brandon",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33511,
+        "City": "Brandon",
+        "Type": "Standard",
+        "City_1": "Brandon",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33513,
+        "City": "Bushnell",
+        "Type": "Standard",
+        "City_1": "Bushnell",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 33514,
+        "City": "Center Hill",
+        "Type": "Standard",
+        "City_1": "Center Hill",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 33521,
+        "City": "Coleman",
+        "Type": "POBox",
+        "City_1": "Coleman",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 33523,
+        "City": "Dade City",
+        "Type": "Standard",
+        "City_1": "Dade City",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33525,
+        "City": "Dade City",
+        "Type": "Standard",
+        "City_1": "Dade City",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33527,
+        "City": "Dover",
+        "Type": "Standard",
+        "City_1": "Dover",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33534,
+        "City": "Gibsonton",
+        "Type": "Standard",
+        "City_1": "Gibsonton",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33538,
+        "City": "Lake Panasoffkee",
+        "Type": "Standard",
+        "City_1": "Lake Panasoffkee",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 33540,
+        "City": "Zephyrhills",
+        "Type": "Standard",
+        "City_1": "Zephyrhills",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33541,
+        "City": "Zephyrhills",
+        "Type": "Standard",
+        "City_1": "Zephyrhills",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33542,
+        "City": "Zephyrhills",
+        "Type": "Standard",
+        "City_1": "Zephyrhills",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33543,
+        "City": "Wesley Chapel",
+        "Type": "Standard",
+        "City_1": "Wesley Chapel",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33544,
+        "City": "Wesley Chapel",
+        "Type": "Standard",
+        "City_1": "Wesley Chapel",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33545,
+        "City": "Wesley Chapel",
+        "Type": "Standard",
+        "City_1": "Wesley Chapel",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33547,
+        "City": "Lithia",
+        "Type": "Standard",
+        "City_1": "Lithia",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33548,
+        "City": "Lutz",
+        "Type": "Standard",
+        "City_1": "Lutz",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33549,
+        "City": "Lutz",
+        "Type": "Standard",
+        "City_1": "Lutz",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33556,
+        "City": "Odessa",
+        "Type": "Standard",
+        "City_1": "Odessa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33558,
+        "City": "Lutz",
+        "Type": "Standard",
+        "City_1": "Lutz",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33559,
+        "City": "Lutz",
+        "Type": "Standard",
+        "City_1": "Lutz",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33563,
+        "City": "Plant City",
+        "Type": "Standard",
+        "City_1": "Plant City",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33565,
+        "City": "Plant City",
+        "Type": "Standard",
+        "City_1": "Plant City",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33566,
+        "City": "Plant City",
+        "Type": "Standard",
+        "City_1": "Plant City",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33567,
+        "City": "Plant City",
+        "Type": "Standard",
+        "City_1": "Plant City",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33569,
+        "City": "Riverview",
+        "Type": "Standard",
+        "City_1": "Riverview",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33570,
+        "City": "Ruskin",
+        "Type": "Standard",
+        "City_1": "Ruskin",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33572,
+        "City": "Apollo Beach",
+        "Type": "Standard",
+        "City_1": "Apollo Beach",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33573,
+        "City": "Sun City Center",
+        "Type": "Standard",
+        "City_1": "Sun City Center",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33576,
+        "City": "San Antonio",
+        "Type": "Standard",
+        "City_1": "San Antonio",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 33578,
+        "City": "Riverview",
+        "Type": "Standard",
+        "City_1": "Riverview",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33579,
+        "City": "Riverview",
+        "Type": "Standard",
+        "City_1": "Riverview",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33584,
+        "City": "Seffner",
+        "Type": "Standard",
+        "City_1": "Seffner",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33585,
+        "City": "Sumterville",
+        "Type": "Standard",
+        "City_1": "Sumterville",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 33592,
+        "City": "Thonotosassa",
+        "Type": "Standard",
+        "City_1": "Thonotosassa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33594,
+        "City": "Valrico",
+        "Type": "Standard",
+        "City_1": "Valrico",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33596,
+        "City": "Valrico",
+        "Type": "Standard",
+        "City_1": "Valrico",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33597,
+        "City": "Webster",
+        "Type": "Standard",
+        "City_1": "Webster",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 33598,
+        "City": "Wimauma",
+        "Type": "Standard",
+        "City_1": "Wimauma",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33602,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33603,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33604,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33605,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33606,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33607,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33609,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33610,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33611,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33612,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33613,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33614,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33615,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33616,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33617,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33618,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33619,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33620,
+        "City": "Tampa",
+        "Type": "Unique",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33621,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33624,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33625,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33626,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33629,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33634,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33635,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33637,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33647,
+        "City": "Tampa",
+        "Type": "Standard",
+        "City_1": "Tampa",
+        "County": "Hillsborough",
+        "County_Code": 12057
+    },
+    {
+        "Zip_Code": 33701,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33702,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33703,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33704,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33705,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33706,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33707,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33708,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33709,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33710,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33711,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33712,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33713,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33714,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33715,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33716,
+        "City": "Saint Petersburg",
+        "Type": "Standard",
+        "City_1": "Saint Petersburg",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33744,
+        "City": "Bay Pines",
+        "Type": "POBox",
+        "City_1": "Bay Pines",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33755,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33756,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33759,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33760,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33761,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33762,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33763,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33764,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33765,
+        "City": "Clearwater",
+        "Type": "Standard",
+        "City_1": "Clearwater",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33767,
+        "City": "Clearwater Beach",
+        "Type": "Standard",
+        "City_1": "Clearwater Beach",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33770,
+        "City": "Largo",
+        "Type": "Standard",
+        "City_1": "Largo",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33771,
+        "City": "Largo",
+        "Type": "Standard",
+        "City_1": "Largo",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33772,
+        "City": "Seminole",
+        "Type": "Standard",
+        "City_1": "Seminole",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33773,
+        "City": "Largo",
+        "Type": "Standard",
+        "City_1": "Largo",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33774,
+        "City": "Largo",
+        "Type": "Standard",
+        "City_1": "Largo",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33776,
+        "City": "Seminole",
+        "Type": "Standard",
+        "City_1": "Seminole",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33777,
+        "City": "Seminole",
+        "Type": "Standard",
+        "City_1": "Seminole",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33778,
+        "City": "Largo",
+        "Type": "Standard",
+        "City_1": "Largo",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33781,
+        "City": "Pinellas Park",
+        "Type": "Standard",
+        "City_1": "Pinellas Park",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33782,
+        "City": "Pinellas Park",
+        "Type": "Standard",
+        "City_1": "Pinellas Park",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33785,
+        "City": "Indian Rocks Beach",
+        "Type": "Standard",
+        "City_1": "Indian Rocks Beach",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33786,
+        "City": "Belleair Beach",
+        "Type": "Standard",
+        "City_1": "Belleair Beach",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 33801,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33803,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33805,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33809,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33810,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33811,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33812,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33813,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33815,
+        "City": "Lakeland",
+        "Type": "Standard",
+        "City_1": "Lakeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33823,
+        "City": "Auburndale",
+        "Type": "Standard",
+        "City_1": "Auburndale",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33825,
+        "City": "Avon Park",
+        "Type": "Standard",
+        "City_1": "Avon Park",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33827,
+        "City": "Babson Park",
+        "Type": "Standard",
+        "City_1": "Babson Park",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33830,
+        "City": "Bartow",
+        "Type": "Standard",
+        "City_1": "Bartow",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33834,
+        "City": "Bowling Green",
+        "Type": "Standard",
+        "City_1": "Bowling Green",
+        "County": "Hardee",
+        "County_Code": 12049
+    },
+    {
+        "Zip_Code": 33837,
+        "City": "Davenport",
+        "Type": "Standard",
+        "City_1": "Davenport",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33838,
+        "City": "Dundee",
+        "Type": "Standard",
+        "City_1": "Dundee",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33839,
+        "City": "Eagle Lake",
+        "Type": "Standard",
+        "City_1": "Eagle Lake",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33841,
+        "City": "Fort Meade",
+        "Type": "Standard",
+        "City_1": "Fort Meade",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33843,
+        "City": "Frostproof",
+        "Type": "Standard",
+        "City_1": "Frostproof",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33844,
+        "City": "Haines City",
+        "Type": "Standard",
+        "City_1": "Haines City",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33847,
+        "City": "Homeland",
+        "Type": "POBox",
+        "City_1": "Homeland",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33848,
+        "City": "Intercession City",
+        "Type": "POBox",
+        "City_1": "Intercession City",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 33849,
+        "City": "Kathleen",
+        "Type": "Standard",
+        "City_1": "Kathleen",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33850,
+        "City": "Lake Alfred",
+        "Type": "Standard",
+        "City_1": "Lake Alfred",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33851,
+        "City": "Lake Hamilton",
+        "Type": "POBox",
+        "City_1": "Lake Hamilton",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33852,
+        "City": "Lake Placid",
+        "Type": "Standard",
+        "City_1": "Lake Placid",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33853,
+        "City": "Lake Wales",
+        "Type": "Standard",
+        "City_1": "Lake Wales",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33854,
+        "City": "Lakeshore",
+        "Type": "POBox",
+        "City_1": "Lakeshore",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33855,
+        "City": "Indian Lake Estates",
+        "Type": "POBox",
+        "City_1": "Indian Lake Estates",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33856,
+        "City": "Nalcrest",
+        "Type": "POBox",
+        "City_1": "Nalcrest",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33857,
+        "City": "Lorida",
+        "Type": "Standard",
+        "City_1": "Lorida",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33859,
+        "City": "Lake Wales",
+        "Type": "Standard",
+        "City_1": "Lake Wales",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33860,
+        "City": "Mulberry",
+        "Type": "Standard",
+        "City_1": "Mulberry",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33865,
+        "City": "Ona",
+        "Type": "Standard",
+        "City_1": "Ona",
+        "County": "Hardee",
+        "County_Code": 12049
+    },
+    {
+        "Zip_Code": 33867,
+        "City": "River Ranch",
+        "Type": "Standard",
+        "City_1": "River Ranch",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33868,
+        "City": "Polk City",
+        "Type": "Standard",
+        "City_1": "Polk City",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33870,
+        "City": "Sebring",
+        "Type": "Standard",
+        "City_1": "Sebring",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33872,
+        "City": "Sebring",
+        "Type": "Standard",
+        "City_1": "Sebring",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33873,
+        "City": "Wauchula",
+        "Type": "Standard",
+        "City_1": "Wauchula",
+        "County": "Hardee",
+        "County_Code": 12049
+    },
+    {
+        "Zip_Code": 33875,
+        "City": "Sebring",
+        "Type": "Standard",
+        "City_1": "Sebring",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33876,
+        "City": "Sebring",
+        "Type": "Standard",
+        "City_1": "Sebring",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33877,
+        "City": "Waverly",
+        "Type": "POBox",
+        "City_1": "Waverly",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33880,
+        "City": "Winter Haven",
+        "Type": "Standard",
+        "City_1": "Winter Haven",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33881,
+        "City": "Winter Haven",
+        "Type": "Standard",
+        "City_1": "Winter Haven",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33884,
+        "City": "Winter Haven",
+        "Type": "Standard",
+        "City_1": "Winter Haven",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33890,
+        "City": "Zolfo Springs",
+        "Type": "Standard",
+        "City_1": "Zolfo Springs",
+        "County": "Hardee",
+        "County_Code": 12049
+    },
+    {
+        "Zip_Code": 33896,
+        "City": "Davenport",
+        "Type": "Standard",
+        "City_1": "Davenport",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33897,
+        "City": "Davenport",
+        "Type": "Standard",
+        "City_1": "Davenport",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33898,
+        "City": "Lake Wales",
+        "Type": "Standard",
+        "City_1": "Lake Wales",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 33901,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33903,
+        "City": "North Fort Myers",
+        "Type": "Standard",
+        "City_1": "North Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33904,
+        "City": "Cape Coral",
+        "Type": "Standard",
+        "City_1": "Cape Coral",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33905,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33907,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33908,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33909,
+        "City": "Cape Coral",
+        "Type": "Standard",
+        "City_1": "Cape Coral",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33912,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33913,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33914,
+        "City": "Cape Coral",
+        "Type": "Standard",
+        "City_1": "Cape Coral",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33916,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33917,
+        "City": "North Fort Myers",
+        "Type": "Standard",
+        "City_1": "North Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33919,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33920,
+        "City": "Alva",
+        "Type": "Standard",
+        "City_1": "Alva",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33921,
+        "City": "Boca Grande",
+        "Type": "POBox",
+        "City_1": "Boca Grande",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33922,
+        "City": "Bokeelia",
+        "Type": "Standard",
+        "City_1": "Bokeelia",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33924,
+        "City": "Captiva",
+        "Type": "POBox",
+        "City_1": "Captiva",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33928,
+        "City": "Estero",
+        "Type": "Standard",
+        "City_1": "Estero",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33930,
+        "City": "Felda",
+        "Type": "POBox",
+        "City_1": "Felda",
+        "County": "Hendry",
+        "County_Code": 12051
+    },
+    {
+        "Zip_Code": 33931,
+        "City": "Fort Myers Beach",
+        "Type": "Standard",
+        "City_1": "Fort Myers Beach",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33935,
+        "City": "Labelle",
+        "Type": "Standard",
+        "City_1": "Labelle",
+        "County": "Hendry",
+        "County_Code": 12051
+    },
+    {
+        "Zip_Code": 33936,
+        "City": "Lehigh Acres",
+        "Type": "Standard",
+        "City_1": "Lehigh Acres",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33944,
+        "City": "Palmdale",
+        "Type": "POBox",
+        "City_1": "Palmdale",
+        "County": "Glades",
+        "County_Code": 12043
+    },
+    {
+        "Zip_Code": 33945,
+        "City": "Pineland",
+        "Type": "POBox",
+        "City_1": "Pineland",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33946,
+        "City": "Placida",
+        "Type": "Standard",
+        "City_1": "Placida",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33947,
+        "City": "Rotonda West",
+        "Type": "Standard",
+        "City_1": "Rotonda West",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33948,
+        "City": "Port Charlotte",
+        "Type": "Standard",
+        "City_1": "Port Charlotte",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33950,
+        "City": "Punta Gorda",
+        "Type": "Standard",
+        "City_1": "Punta Gorda",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33952,
+        "City": "Port Charlotte",
+        "Type": "Standard",
+        "City_1": "Port Charlotte",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33953,
+        "City": "Port Charlotte",
+        "Type": "Standard",
+        "City_1": "Port Charlotte",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33954,
+        "City": "Port Charlotte",
+        "Type": "Standard",
+        "City_1": "Port Charlotte",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33955,
+        "City": "Punta Gorda",
+        "Type": "Standard",
+        "City_1": "Punta Gorda",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33956,
+        "City": "Saint James City",
+        "Type": "Standard",
+        "City_1": "Saint James City",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33957,
+        "City": "Sanibel",
+        "Type": "Standard",
+        "City_1": "Sanibel",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33960,
+        "City": "Venus",
+        "Type": "Standard",
+        "City_1": "Venus",
+        "County": "Highlands",
+        "County_Code": 12055
+    },
+    {
+        "Zip_Code": 33965,
+        "City": "Fort Myers",
+        "Type": "Unique",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33966,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33967,
+        "City": "Fort Myers",
+        "Type": "Standard",
+        "City_1": "Fort Myers",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33971,
+        "City": "Lehigh Acres",
+        "Type": "Standard",
+        "City_1": "Lehigh Acres",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33972,
+        "City": "Lehigh Acres",
+        "Type": "Standard",
+        "City_1": "Lehigh Acres",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33973,
+        "City": "Lehigh Acres",
+        "Type": "Standard",
+        "City_1": "Lehigh Acres",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33974,
+        "City": "Lehigh Acres",
+        "Type": "Standard",
+        "City_1": "Lehigh Acres",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33976,
+        "City": "Lehigh Acres",
+        "Type": "Standard",
+        "City_1": "Lehigh Acres",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33980,
+        "City": "Punta Gorda",
+        "Type": "Standard",
+        "City_1": "Punta Gorda",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33981,
+        "City": "Port Charlotte",
+        "Type": "Standard",
+        "City_1": "Port Charlotte",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33982,
+        "City": "Punta Gorda",
+        "Type": "Standard",
+        "City_1": "Punta Gorda",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33983,
+        "City": "Punta Gorda",
+        "Type": "Standard",
+        "City_1": "Punta Gorda",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 33990,
+        "City": "Cape Coral",
+        "Type": "Standard",
+        "City_1": "Cape Coral",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33991,
+        "City": "Cape Coral",
+        "Type": "Standard",
+        "City_1": "Cape Coral",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 33993,
+        "City": "Cape Coral",
+        "Type": "Standard",
+        "City_1": "Cape Coral",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 34101,
+        "City": "Naples",
+        "Type": "POBox",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34102,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34103,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34104,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34105,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34108,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34109,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34110,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34112,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34113,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34114,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34116,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34117,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34119,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34120,
+        "City": "Naples",
+        "Type": "Standard",
+        "City_1": "Naples",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34134,
+        "City": "Bonita Springs",
+        "Type": "Standard",
+        "City_1": "Bonita Springs",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 34135,
+        "City": "Bonita Springs",
+        "Type": "Standard",
+        "City_1": "Bonita Springs",
+        "County": "Lee",
+        "County_Code": 12071
+    },
+    {
+        "Zip_Code": 34137,
+        "City": "Copeland",
+        "Type": "POBox",
+        "City_1": "Copeland",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34138,
+        "City": "Chokoloskee",
+        "Type": "POBox",
+        "City_1": "Chokoloskee",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34139,
+        "City": "Everglades City",
+        "Type": "POBox",
+        "City_1": "Everglades City",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34140,
+        "City": "Goodland",
+        "Type": "POBox",
+        "City_1": "Goodland",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34141,
+        "City": "Ochopee",
+        "Type": "Standard",
+        "City_1": "Ochopee",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34142,
+        "City": "Immokalee",
+        "Type": "Standard",
+        "City_1": "Immokalee",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34145,
+        "City": "Marco Island",
+        "Type": "Standard",
+        "City_1": "Marco Island",
+        "County": "Collier",
+        "County_Code": 12021
+    },
+    {
+        "Zip_Code": 34201,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34202,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34203,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34205,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34207,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34208,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34209,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34210,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34211,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34212,
+        "City": "Bradenton",
+        "Type": "Standard",
+        "City_1": "Bradenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34215,
+        "City": "Cortez",
+        "Type": "Standard",
+        "City_1": "Cortez",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34216,
+        "City": "Anna Maria",
+        "Type": "POBox",
+        "City_1": "Anna Maria",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34217,
+        "City": "Bradenton Beach",
+        "Type": "Standard",
+        "City_1": "Bradenton Beach",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34219,
+        "City": "Parrish",
+        "Type": "Standard",
+        "City_1": "Parrish",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34221,
+        "City": "Palmetto",
+        "Type": "Standard",
+        "City_1": "Palmetto",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34222,
+        "City": "Ellenton",
+        "Type": "Standard",
+        "City_1": "Ellenton",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34223,
+        "City": "Englewood",
+        "Type": "Standard",
+        "City_1": "Englewood",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34224,
+        "City": "Englewood",
+        "Type": "Standard",
+        "City_1": "Englewood",
+        "County": "Charlotte",
+        "County_Code": 12015
+    },
+    {
+        "Zip_Code": 34228,
+        "City": "Longboat Key",
+        "Type": "Standard",
+        "City_1": "Longboat Key",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34229,
+        "City": "Osprey",
+        "Type": "Standard",
+        "City_1": "Osprey",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34231,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34232,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34233,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34234,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34235,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34236,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34237,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34238,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34239,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34240,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34241,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34242,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34243,
+        "City": "Sarasota",
+        "Type": "Standard",
+        "City_1": "Sarasota",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34251,
+        "City": "Myakka City",
+        "Type": "Standard",
+        "City_1": "Myakka City",
+        "County": "Manatee",
+        "County_Code": 12081
+    },
+    {
+        "Zip_Code": 34266,
+        "City": "Arcadia",
+        "Type": "Standard",
+        "City_1": "Arcadia",
+        "County": "DeSoto",
+        "County_Code": 12027
+    },
+    {
+        "Zip_Code": 34268,
+        "City": "Nocatee",
+        "Type": "POBox",
+        "City_1": "Nocatee",
+        "County": "DeSoto",
+        "County_Code": 12027
+    },
+    {
+        "Zip_Code": 34269,
+        "City": "Arcadia",
+        "Type": "Standard",
+        "City_1": "Arcadia",
+        "County": "DeSoto",
+        "County_Code": 12027
+    },
+    {
+        "Zip_Code": 34275,
+        "City": "Nokomis",
+        "Type": "Standard",
+        "City_1": "Nokomis",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34285,
+        "City": "Venice",
+        "Type": "Standard",
+        "City_1": "Venice",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34286,
+        "City": "North Port",
+        "Type": "Standard",
+        "City_1": "North Port",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34287,
+        "City": "North Port",
+        "Type": "Standard",
+        "City_1": "North Port",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34288,
+        "City": "North Port",
+        "Type": "Standard",
+        "City_1": "North Port",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34289,
+        "City": "North Port",
+        "Type": "Standard",
+        "City_1": "North Port",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34291,
+        "City": "North Port",
+        "Type": "Standard",
+        "City_1": "North Port",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34292,
+        "City": "Venice",
+        "Type": "Standard",
+        "City_1": "Venice",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34293,
+        "City": "Venice",
+        "Type": "Standard",
+        "City_1": "Venice",
+        "County": "Sarasota",
+        "County_Code": 12115
+    },
+    {
+        "Zip_Code": 34420,
+        "City": "Belleview",
+        "Type": "Standard",
+        "City_1": "Belleview",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34428,
+        "City": "Crystal River",
+        "Type": "Standard",
+        "City_1": "Crystal River",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34429,
+        "City": "Crystal River",
+        "Type": "Standard",
+        "City_1": "Crystal River",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34431,
+        "City": "Dunnellon",
+        "Type": "Standard",
+        "City_1": "Dunnellon",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34432,
+        "City": "Dunnellon",
+        "Type": "Standard",
+        "City_1": "Dunnellon",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34433,
+        "City": "Dunnellon",
+        "Type": "Standard",
+        "City_1": "Dunnellon",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34434,
+        "City": "Dunnellon",
+        "Type": "Standard",
+        "City_1": "Dunnellon",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34436,
+        "City": "Floral City",
+        "Type": "Standard",
+        "City_1": "Floral City",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34442,
+        "City": "Hernando",
+        "Type": "Standard",
+        "City_1": "Hernando",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34445,
+        "City": "Holder",
+        "Type": "POBox",
+        "City_1": "Holder",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34446,
+        "City": "Homosassa",
+        "Type": "Standard",
+        "City_1": "Homosassa",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34448,
+        "City": "Homosassa",
+        "Type": "Standard",
+        "City_1": "Homosassa",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34449,
+        "City": "Inglis",
+        "Type": "Standard",
+        "City_1": "Inglis",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 34450,
+        "City": "Inverness",
+        "Type": "Standard",
+        "City_1": "Inverness",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34452,
+        "City": "Inverness",
+        "Type": "Standard",
+        "City_1": "Inverness",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34453,
+        "City": "Inverness",
+        "Type": "Standard",
+        "City_1": "Inverness",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34461,
+        "City": "Lecanto",
+        "Type": "Standard",
+        "City_1": "Lecanto",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34465,
+        "City": "Beverly Hills",
+        "Type": "Standard",
+        "City_1": "Beverly Hills",
+        "County": "Citrus",
+        "County_Code": 12017
+    },
+    {
+        "Zip_Code": 34470,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34471,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34472,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34473,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34474,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34475,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34476,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34479,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34480,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34481,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34482,
+        "City": "Ocala",
+        "Type": "Standard",
+        "City_1": "Ocala",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34484,
+        "City": "Oxford",
+        "Type": "Standard",
+        "City_1": "Oxford",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 34488,
+        "City": "Silver Springs",
+        "Type": "Standard",
+        "City_1": "Silver Springs",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34491,
+        "City": "Summerfield",
+        "Type": "Standard",
+        "City_1": "Summerfield",
+        "County": "Marion",
+        "County_Code": 12083
+    },
+    {
+        "Zip_Code": 34498,
+        "City": "Yankeetown",
+        "Type": "Standard",
+        "City_1": "Yankeetown",
+        "County": "Levy",
+        "County_Code": 12075
+    },
+    {
+        "Zip_Code": 34601,
+        "City": "Brooksville",
+        "Type": "Standard",
+        "City_1": "Brooksville",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34602,
+        "City": "Brooksville",
+        "Type": "Standard",
+        "City_1": "Brooksville",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34604,
+        "City": "Brooksville",
+        "Type": "Standard",
+        "City_1": "Brooksville",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34606,
+        "City": "Spring Hill",
+        "Type": "Standard",
+        "City_1": "Spring Hill",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34607,
+        "City": "Spring Hill",
+        "Type": "Standard",
+        "City_1": "Spring Hill",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34608,
+        "City": "Spring Hill",
+        "Type": "Standard",
+        "City_1": "Spring Hill",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34609,
+        "City": "Spring Hill",
+        "Type": "Standard",
+        "City_1": "Spring Hill",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34610,
+        "City": "Spring Hill",
+        "Type": "Standard",
+        "City_1": "Spring Hill",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34613,
+        "City": "Brooksville",
+        "Type": "Standard",
+        "City_1": "Brooksville",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34614,
+        "City": "Brooksville",
+        "Type": "Standard",
+        "City_1": "Brooksville",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34637,
+        "City": "Land O'Lakes",
+        "Type": "Standard",
+        "City_1": "Land O'Lakes",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34638,
+        "City": "Land O'Lakes",
+        "Type": "Standard",
+        "City_1": "Land O'Lakes",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34639,
+        "City": "Land O'Lakes",
+        "Type": "Standard",
+        "City_1": "Land O'Lakes",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34652,
+        "City": "New Port Richey",
+        "Type": "Standard",
+        "City_1": "New Port Richey",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34653,
+        "City": "New Port Richey",
+        "Type": "Standard",
+        "City_1": "New Port Richey",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34654,
+        "City": "New Port Richey",
+        "Type": "Standard",
+        "City_1": "New Port Richey",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34655,
+        "City": "New Port Richey",
+        "Type": "Standard",
+        "City_1": "New Port Richey",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34661,
+        "City": "Nobleton",
+        "Type": "POBox",
+        "City_1": "Nobleton",
+        "County": "Hernando",
+        "County_Code": 12053
+    },
+    {
+        "Zip_Code": 34667,
+        "City": "Hudson",
+        "Type": "Standard",
+        "City_1": "Hudson",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34668,
+        "City": "Port Richey",
+        "Type": "Standard",
+        "City_1": "Port Richey",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34669,
+        "City": "Hudson",
+        "Type": "Standard",
+        "City_1": "Hudson",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34677,
+        "City": "Oldsmar",
+        "Type": "Standard",
+        "City_1": "Oldsmar",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34679,
+        "City": "Aripeka",
+        "Type": "POBox",
+        "City_1": "Aripeka",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34681,
+        "City": "Crystal Beach",
+        "Type": "POBox",
+        "City_1": "Crystal Beach",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34683,
+        "City": "Palm Harbor",
+        "Type": "Standard",
+        "City_1": "Palm Harbor",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34684,
+        "City": "Palm Harbor",
+        "Type": "Standard",
+        "City_1": "Palm Harbor",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34685,
+        "City": "Palm Harbor",
+        "Type": "Standard",
+        "City_1": "Palm Harbor",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34688,
+        "City": "Tarpon Springs",
+        "Type": "Standard",
+        "City_1": "Tarpon Springs",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34689,
+        "City": "Tarpon Springs",
+        "Type": "Standard",
+        "City_1": "Tarpon Springs",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34690,
+        "City": "Holiday",
+        "Type": "Standard",
+        "City_1": "Holiday",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34691,
+        "City": "Holiday",
+        "Type": "Standard",
+        "City_1": "Holiday",
+        "County": "Pasco",
+        "County_Code": 12101
+    },
+    {
+        "Zip_Code": 34695,
+        "City": "Safety Harbor",
+        "Type": "Standard",
+        "City_1": "Safety Harbor",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34698,
+        "City": "Dunedin",
+        "Type": "Standard",
+        "City_1": "Dunedin",
+        "County": "Pinellas",
+        "County_Code": 12103
+    },
+    {
+        "Zip_Code": 34705,
+        "City": "Astatula",
+        "Type": "Standard",
+        "City_1": "Astatula",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34711,
+        "City": "Clermont",
+        "Type": "Standard",
+        "City_1": "Clermont",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34714,
+        "City": "Clermont",
+        "Type": "Standard",
+        "City_1": "Clermont",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34715,
+        "City": "Clermont",
+        "Type": "Standard",
+        "City_1": "Clermont",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34731,
+        "City": "Fruitland Park",
+        "Type": "Standard",
+        "City_1": "Fruitland Park",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34734,
+        "City": "Gotha",
+        "Type": "Standard",
+        "City_1": "Gotha",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 34736,
+        "City": "Groveland",
+        "Type": "Standard",
+        "City_1": "Groveland",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34737,
+        "City": "Howey in the Hills",
+        "Type": "Standard",
+        "City_1": "Howey in the Hills",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34739,
+        "City": "Kenansville",
+        "Type": "Standard",
+        "City_1": "Kenansville",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34741,
+        "City": "Kissimmee",
+        "Type": "Standard",
+        "City_1": "Kissimmee",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34743,
+        "City": "Kissimmee",
+        "Type": "Standard",
+        "City_1": "Kissimmee",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34744,
+        "City": "Kissimmee",
+        "Type": "Standard",
+        "City_1": "Kissimmee",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34746,
+        "City": "Kissimmee",
+        "Type": "Standard",
+        "City_1": "Kissimmee",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34747,
+        "City": "Kissimmee",
+        "Type": "Standard",
+        "City_1": "Kissimmee",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34748,
+        "City": "Leesburg",
+        "Type": "Standard",
+        "City_1": "Leesburg",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34753,
+        "City": "Mascotte",
+        "Type": "Standard",
+        "City_1": "Mascotte",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34756,
+        "City": "Montverde",
+        "Type": "Standard",
+        "City_1": "Montverde",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34758,
+        "City": "Kissimmee",
+        "Type": "Standard",
+        "City_1": "Kissimmee",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34759,
+        "City": "Kissimmee",
+        "Type": "Standard",
+        "City_1": "Kissimmee",
+        "County": "Polk",
+        "County_Code": 12105
+    },
+    {
+        "Zip_Code": 34760,
+        "City": "Oakland",
+        "Type": "POBox",
+        "City_1": "Oakland",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 34761,
+        "City": "Ocoee",
+        "Type": "Standard",
+        "City_1": "Ocoee",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 34762,
+        "City": "Okahumpka",
+        "Type": "Standard",
+        "City_1": "Okahumpka",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34769,
+        "City": "Saint Cloud",
+        "Type": "Standard",
+        "City_1": "Saint Cloud",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34771,
+        "City": "Saint Cloud",
+        "Type": "Standard",
+        "City_1": "Saint Cloud",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34772,
+        "City": "Saint Cloud",
+        "Type": "Standard",
+        "City_1": "Saint Cloud",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34773,
+        "City": "Saint Cloud",
+        "Type": "Standard",
+        "City_1": "Saint Cloud",
+        "County": "Osceola",
+        "County_Code": 12097
+    },
+    {
+        "Zip_Code": 34785,
+        "City": "Wildwood",
+        "Type": "Standard",
+        "City_1": "Wildwood",
+        "County": "Sumter",
+        "County_Code": 12119
+    },
+    {
+        "Zip_Code": 34786,
+        "City": "Windermere",
+        "Type": "Standard",
+        "City_1": "Windermere",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 34787,
+        "City": "Winter Garden",
+        "Type": "Standard",
+        "City_1": "Winter Garden",
+        "County": "Orange",
+        "County_Code": 12095
+    },
+    {
+        "Zip_Code": 34788,
+        "City": "Leesburg",
+        "Type": "Standard",
+        "City_1": "Leesburg",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34797,
+        "City": "Yalaha",
+        "Type": "Standard",
+        "City_1": "Yalaha",
+        "County": "Lake",
+        "County_Code": 12069
+    },
+    {
+        "Zip_Code": 34945,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34946,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34947,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34949,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34950,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34951,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34952,
+        "City": "Port Saint Lucie",
+        "Type": "Standard",
+        "City_1": "Port Saint Lucie",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34953,
+        "City": "Port Saint Lucie",
+        "Type": "Standard",
+        "City_1": "Port Saint Lucie",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34956,
+        "City": "Indiantown",
+        "Type": "Standard",
+        "City_1": "Indiantown",
+        "County": "Martin",
+        "County_Code": 12085
+    },
+    {
+        "Zip_Code": 34957,
+        "City": "Jensen Beach",
+        "Type": "Standard",
+        "City_1": "Jensen Beach",
+        "County": "Martin",
+        "County_Code": 12085
+    },
+    {
+        "Zip_Code": 34972,
+        "City": "Okeechobee",
+        "Type": "Standard",
+        "City_1": "Okeechobee",
+        "County": "Okeechobee",
+        "County_Code": 12093
+    },
+    {
+        "Zip_Code": 34974,
+        "City": "Okeechobee",
+        "Type": "Standard",
+        "City_1": "Okeechobee",
+        "County": "Okeechobee",
+        "County_Code": 12093
+    },
+    {
+        "Zip_Code": 34981,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34982,
+        "City": "Fort Pierce",
+        "Type": "Standard",
+        "City_1": "Fort Pierce",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34983,
+        "City": "Port Saint Lucie",
+        "Type": "Standard",
+        "City_1": "Port Saint Lucie",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34984,
+        "City": "Port Saint Lucie",
+        "Type": "Standard",
+        "City_1": "Port Saint Lucie",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34986,
+        "City": "Port Saint Lucie",
+        "Type": "Standard",
+        "City_1": "Port Saint Lucie",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34987,
+        "City": "Port Saint Lucie",
+        "Type": "Standard",
+        "City_1": "Port Saint Lucie",
+        "County": "St. Lucie",
+        "County_Code": 12111
+    },
+    {
+        "Zip_Code": 34990,
+        "City": "Palm City",
+        "Type": "Standard",
+        "City_1": "Palm City",
+        "County": "Martin",
+        "County_Code": 12085
+    },
+    {
+        "Zip_Code": 34994,
+        "City": "Stuart",
+        "Type": "Standard",
+        "City_1": "Stuart",
+        "County": "Martin",
+        "County_Code": 12085
+    },
+    {
+        "Zip_Code": 34996,
+        "City": "Stuart",
+        "Type": "Standard",
+        "City_1": "Stuart",
+        "County": "Martin",
+        "County_Code": 12085
+    },
+    {
+        "Zip_Code": 34997,
+        "City": "Stuart",
+        "Type": "Standard",
+        "City_1": "Stuart",
+        "County": "Martin",
+        "County_Code": 12085
+    }
+]
